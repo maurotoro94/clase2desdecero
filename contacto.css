@@ -1,0 +1,11 @@
+nav{
+    width: 100%;
+    background: yellowgreen;
+} 
+
+.forms{
+    display: block;
+    position: absolute;
+    margin-top: 50px;
+}
+
